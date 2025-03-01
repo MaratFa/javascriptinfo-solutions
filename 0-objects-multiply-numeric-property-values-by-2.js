@@ -1,7 +1,3 @@
-/* 
-  Multiply numeric property values by 2
-*/
-  
   let menu = {
     width: 200,
     height: 300,
