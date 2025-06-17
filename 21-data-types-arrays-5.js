@@ -45,3 +45,4 @@ alert(getMaxSubSum([-2, -1, 1, 2]));
 alert(getMaxSubSum([100, -9, 2, -3, 5]));
 alert(getMaxSubSum([1, 2, 3]));
 alert(getMaxSubSum([-1, -2, -3]));
+
